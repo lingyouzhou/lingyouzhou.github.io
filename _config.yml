@@ -23,7 +23,7 @@ repository               : "lingyouzhou/lingyouzhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zlycut.jpg"
+  avatar           : "zlycut.jpg" 
   name             : "Lingyou Zhou"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Wireless Communications"
