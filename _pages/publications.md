@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Journals
+Journal
 ------
 
 [1] **L. Zhou**, X. Dong, K. Qiu, G. Yu, J. Zhang, and J. Zhang, “Ray-based characterization of the AMPLE model from 0.85 to 5 GHz,” *IEEE Trans. Antennas Propag.*, vol. 73, no. 10, pp. 8174-8188, Oct. 2025. [[Paper](https://ieeexplore.ieee.org/document/11091450)]
@@ -23,7 +23,7 @@ Journals
 [6] X. Dong, C. Chen, G. Yu, **L. Zhou**, C. Yuan, and J. Zhang, “Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications,” *IEEE Trans. Veh. Technol.*, early access, doi: 10.1109/TVT.2026.3653980. [[Paper](https://ieeexplore.ieee.org/document/11353109)]
     
 
-Conferences
+Conference
 ------  
 
 [7] G. Yu, **L. Zhou**, J. Zhang, and J. Zhang, “A ray-launching algorithm for polarized wireless channel prediction,” in *Proc. 2023 IEEE Globecom Workshops (GC Wkshps)*, 2023, pp. 1928-1933. [[Paper](https://ieeexplore.ieee.org/document/10464960)]
