@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lingyou Zhou Homepage"
+title                    : "Dr Lingyou Zhou’s Homepage"
 title_separator          : "-"
 name                     : &name "Lingyou Zhou"
 description              : &description "Lingyou Zhou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "lingyouzhou/lingyouzhou.github.io"
 author:
   # Biographic information
   avatar           : "zlycut.jpg" 
-  name             : "Lingyou Zhou"
+  name             : "Dr Lingyou Zhou"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Wireless Communications"
   location         : #"UK & China"
