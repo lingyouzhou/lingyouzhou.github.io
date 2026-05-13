@@ -36,7 +36,7 @@ Journal
     
 [4] **L. Zhou**, J. Zhang, J. Zhang, and K. Qiu, “An environment-adaptive radio propagation path loss model with ray-based validation,” *IEEE Antennas Wirel. Propag. Lett.*, vol. 23, no. 10, pp. 3217-3221, Oct. 2024. [[Paper](https://ieeexplore.ieee.org/document/10607880)]
 
-[5] G. Yu, Y. Zhang, X. Dong, W. Xi, **L. Zhou**, Y. Zheng, J. Zhang, and J. Zhang, “Eliminating the bit error floor of polarization modulation by using wireless friendly building materials,” accepted, *IEEE Trans. Commun.*, May 2026.
+[5] G. Yu, Y. Zhang, X. Dong, W. Xi, **L. Zhou**, Y. Zheng, J. Zhang, and J. Zhang, “Eliminating the bit error floor of polarization modulation by using wireless friendly building materials,” *IEEE Trans. Commun.*, early access, doi: 10.1109/TCOMM.2026.3692021. [[Paper](https://ieeexplore.ieee.org/document/11514067)]
   
 [6] X. Dong, C. Chen, G. Yu, **L. Zhou**, C. Yuan, and J. Zhang, “Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications,” *IEEE Trans. Veh. Technol.*, early access, doi: 10.1109/TVT.2026.3653980. [[Paper](https://ieeexplore.ieee.org/document/11353109)]
 
