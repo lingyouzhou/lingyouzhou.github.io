@@ -43,19 +43,19 @@ Education Experience
 PhD in Wireless Communications
 ------
 * **Institution:** [The University of Sheffield](https://sheffield.ac.uk/), Sheffield, UK<br>
-* **Duration:** 03/2022-04/2026<br>
+* **Duration:** 2022-2026<br>
 * **Supervisors:** [Prof Jie Zhang](https://www.ranplanwireless.com/team/jie-zhang) (1st, CSO in Ranplan Wireless) and [Prof Timothy O’Farrell](https://sheffield.ac.uk/eee/people/academic-staff/tim-ofarrell) (2nd, FREng)<br>
 * **PhD Thesis:** [Fast Prediction of Radio Channel Large-Scale Parameters Considering Environmental Factors](https://etheses.whiterose.ac.uk/id/eprint/38597/)<br> 
 
 MSc (Eng) in Electronic and Electrical Engineering (with Distinction)
 ------
 * **Institution:** [The University of Sheffield](https://sheffield.ac.uk/), Sheffield, UK<br>
-* **Duration:** 10/2020-11/2021<br>
+* **Duration:** 2020-2021<br>
 
 BEng in Measurement and Control Technology and Instrumentation
 ------
 * **Institution:** [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China<br>
-* **Duration:** 09/2016-06/2020
+* **Duration:** 2016-2020
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@ Work Experience
 Research Engineer
 ------
 * **Institution:** [Ranplan Wireless Network Design Ltd.](https://www.ranplanwireless.com/), Cambridge, UK<br>
-* **Duration:** 07/2024-07/2025
+* **Duration:** 2024-2025
 <br>
 <br>
 <br>
