@@ -30,7 +30,7 @@ Journal
 
 [1] **L. Zhou**, X. Dong, K. Qiu, G. Yu, J. Zhang, and J. Zhang, “Ray-based characterization of the AMPLE model from 0.85 to 5 GHz,” *IEEE Trans. Antennas Propag.*, vol. 73, no. 10, pp. 8174-8188, Oct. 2025. [[Paper](https://ieeexplore.ieee.org/document/11091450)]
     
-[2] **L. Zhou**, J. Zhang, J. Zhang, K. Lin, W. Qi, and J. Chen, “A site-specific channel large-scale parameter model with ray-based validation,” *IEEE Trans. Veh. Technol.*, early access, doi: 10.1109/TVT.2025.3640770. [[Paper](https://ieeexplore.ieee.org/document/11278797)]
+[2] **L. Zhou**, J. Zhang, J. Zhang, K. Lin, W. Qi, and J. Chen, “A site-specific channel large-scale parameter model with ray-based validation,” *IEEE Trans. Veh. Technol.*, vol. 75, no. 6, pp. 10438-10453, June 2026. [[Paper](https://ieeexplore.ieee.org/document/11278797)]
     
 [3] **L. Zhou**, J. Zhang, J. Zhang, O. Cetinkaya, and S. A. Jubb, “AMPLE: An adaptive multiple path loss exponent radio propagation model considering environmental factors,” *IEEE Trans. Veh. Technol.*, vol. 74, no. 2, pp. 3395-3400, Feb. 2025. [[Paper](https://ieeexplore.ieee.org/document/10701076)]
     
