@@ -46,6 +46,7 @@ Reviewer
 Journal
 ------
 * IEEE Transactions on Antennas and Propagation
+* IEEE Transactions on Vehicular Technology
 * IEEE Antennas and Wireless Propagation Letters
 * IEEE Wireless Communications Letters
 * IEEE Open Journal of Vehicular Technology
@@ -53,6 +54,7 @@ Journal
   
 Conference
 ------
+* 2026 IEEE Global Communications Conference (GLOBECOM)
 * 2025 IEEE 102nd Vehicular Technology Conference (VTC-2025 Fall)
 * 2024 IEEE/CIC International Conference on Communications in China (ICCC)
 <br>

@@ -38,7 +38,7 @@ Journal
 
 [5] G. Yu, Y. Zhang, X. Dong, W. Xi, **L. Zhou**, Y. Zheng, J. Zhang, and J. Zhang, “Eliminating the bit error floor of polarization modulation by using wireless friendly building materials,” *IEEE Trans. Commun.*, vol. 74, pp. 8701-8717, May 2026. [[Paper](https://ieeexplore.ieee.org/document/11514067)]
   
-[6] X. Dong, C. Chen, G. Yu, **L. Zhou**, C. Yuan, and J. Zhang, “Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications,” *IEEE Trans. Veh. Technol.*, early access, doi: 10.1109/TVT.2026.3653980. [[Paper](https://ieeexplore.ieee.org/document/11353109)]
+[6] X. Dong, C. Chen, G. Yu, **L. Zhou**, C. Yuan, and J. Zhang, “Deep learning-based channel estimation for stacked intelligent metasurface-enhanced multi-user communications,” *IEEE Trans. Veh. Technol.*, vol. 75, no. 7, pp. 15067-15072, July 2026. [[Paper](https://ieeexplore.ieee.org/document/11353109)]
 
 Conference
 ------  

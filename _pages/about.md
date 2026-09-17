@@ -32,7 +32,23 @@ redirect_from:
 Biography
 ======
 
-Lingyou Zhou received the BEng degree from the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China, in 2020, and the MSc (Eng) and PhD degrees from [The University of Sheffield](https://sheffield.ac.uk/), Sheffield, UK, in 2021 and 2026, respectively. From 2024 to 2025, he was a Research Engineer with [Ranplan Wireless](https://www.ranplanwireless.com/), Cambridge, UK. 
+Lingyou Zhou received the BEng degree from the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China, in 2020, and the MSc (Eng) and PhD degrees from [The University of Sheffield](https://sheffield.ac.uk/), Sheffield, UK, in 2021 and 2026, respectively. From 2024 to 2025, he was a Research Engineer with [Ranplan Wireless](https://www.ranplanwireless.com/), Cambridge, UK. He is now an Assistant Researcher with [Harbin Institute of Technology, Shenzhen (HITSZ)](https://en.hitsz.edu.cn/), Shenzhen, China. 
+<br>
+<br>
+<br>
+
+Work Experience
+======
+
+Assistant Researcher
+------
+* **Institution:** [Harbin Institute of Technology, Shenzhen (HITSZ)](https://en.hitsz.edu.cn/), Shenzhen, China<br>
+* **Duration:** 2026-now
+
+Research Engineer
+------
+* **Institution:** [Ranplan Wireless Network Design Ltd.](https://www.ranplanwireless.com/), Cambridge, UK<br>
+* **Duration:** 2024-2025
 <br>
 <br>
 <br>
@@ -60,22 +76,12 @@ BEng in Measurement and Control Technology and Instrumentation
 <br>
 <br>
 
-Work Experience
-======
 
-Research Engineer
-------
-* **Institution:** [Ranplan Wireless Network Design Ltd.](https://www.ranplanwireless.com/), Cambridge, UK<br>
-* **Duration:** 2024-2025
-<br>
-<br>
-<br>
 
 Research Interests
 ======
-* Empirical path loss modelling
-* AI-based path loss modelling
-* Radio channel modelling
+* Path loss modelling
+* 3GPP channel modelling 
 
 
           
