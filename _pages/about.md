@@ -60,7 +60,7 @@ PhD in Wireless Communications
 ------
 * **Institution:** [The University of Sheffield](https://sheffield.ac.uk/), Sheffield, UK<br>
 * **Duration:** 2022-2026<br>
-* **Supervisors:** [Prof Jie Zhang](https://www.ranplanwireless.com/team/jie-zhang) (1st, CSO in Ranplan Wireless) and [Prof Timothy O’Farrell](https://sheffield.ac.uk/eee/people/academic-staff/tim-ofarrell) (2nd, FREng)<br>
+* **Supervisors:** [Prof Jie Zhang](https://www.ranplanwireless.com/team/jie-zhang) (1st, [FREng](https://raeng.org.uk/about-us/fellowship/new-fellows-2026/professor-jie-zhang-freng/)) and [Prof Timothy O’Farrell](https://sheffield.ac.uk/eee/people/academic-staff/tim-ofarrell) (2nd, [FREng](https://raeng.org.uk/about-us/fellowship/new-fellows-2023/professor-timothy-ofarrell-freng/))<br>
 * **PhD Thesis:** [Fast Prediction of Radio Channel Large-Scale Parameters Considering Environmental Factors](https://etheses.whiterose.ac.uk/id/eprint/38597/)<br> 
 
 MSc (Eng) in Electronic and Electrical Engineering (with Distinction)
