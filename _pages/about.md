@@ -82,7 +82,7 @@ Research Interests
 ======
 * Path loss modelling
 * 3GPP channel modelling 
-
+* AI Theory
 
           
 ------
